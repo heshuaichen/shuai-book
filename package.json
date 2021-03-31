@@ -1,0 +1,24 @@
+{
+  "name": "shuai-book",
+  "version": "1.0.0",
+  "description": "这是一个 gitBook 自动化构建的demo",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heshuaichen/shuai-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heshuaichen/shuai-book/issues"
+  },
+  "homepage": "https://github.com/heshuaichen/shuai-book#readme"
+}
